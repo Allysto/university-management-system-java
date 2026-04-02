@@ -1,0 +1,18 @@
+# Compiled Java files
+*.class
+
+# BlueJ files
+*.ctxt
+*.bluej
+
+# IDE files
+.vscode/
+.idea/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
