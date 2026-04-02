@@ -14,7 +14,7 @@ public class FileHandler {
             for (Student s : students) {
                 writer.println(s.toCSV());
             }
-            System.out.println("✅ Saved " + students.size() + " students to file.");
+            System.out.println("Saved " + students.size() + " students to file.");
         }
     }
     
