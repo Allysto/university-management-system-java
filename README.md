@@ -6,7 +6,7 @@
 
 A comprehensive **Java OOP project** demonstrating Inheritance, Polymorphism, Specialization, Encapsulation, Abstraction, and File I/O.
 
-## 📚 OOP Concepts Demonstrated
+## OOP Concepts Demonstrated
 
 | Concept | Implementation |
 |---------|----------------|
